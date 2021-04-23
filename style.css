@@ -78,14 +78,23 @@ html{
     width: 60%;
     background-color: #2196F3;
 }
+.js{
+    width: 30%;
+    background-color: coral;
+}
+.boostrap{
+    width: 60%;
+    background-color: turquoise;
+}
 .design {
     width: 50%;
     background-color: #f321d0;
 }
 .blender {
     width: 50%;
-    background-color: #f8813d;
+    background-color: darkorange;
 }
+
 
 #infomation{
     width: 65%;
